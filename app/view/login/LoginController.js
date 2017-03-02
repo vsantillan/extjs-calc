@@ -7,7 +7,7 @@ Ext.define('AdeaProjects.view.login.LoginController', {
     this.getView().destroy();
 
     Ext.create({
-      xtype: 'app-main'
+      xtype: 'demo-main'
     });
   }
 });
