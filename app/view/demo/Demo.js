@@ -4,8 +4,8 @@ Ext.define('AdeaProjects.view.demo.Demo', {
   controller: 'form-contact',
 
   title: 'Contact Us',
-  width: 500,
-  height: 300,
+  width: '100%',
+  height: 1200,
   bodyPadding: 20,
 
   dockedItems: [{
